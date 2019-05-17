@@ -33,7 +33,7 @@ spring:
     username: admin
     password: My0okmnhy6!
 logging: 
-  file: ../logs/uid-consumer.log
+  file: ./logs/uid-consumer.log
   level: 
     io.prong.uid: ERROR
     root: INFO
